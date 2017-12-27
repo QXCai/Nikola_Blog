@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>http://QXCai.github.io/</loc>
+  <lastmod>2017-12-27T07:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://QXCai.github.io/2017/</loc>
+  <lastmod>2017-12-27T07:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://QXCai.github.io/archive.html</loc>
+  <lastmod>2017-12-27T07:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://QXCai.github.io/categories/</loc>
+  <lastmod>2017-12-27T07:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://QXCai.github.io/galleries/</loc>
+  <lastmod>2017-12-27T07:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://QXCai.github.io/listings/</loc>
+  <lastmod>2017-12-27T07:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://QXCai.github.io/pages/test_nikola/</loc>
+  <lastmod>2017-12-27T07:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://QXCai.github.io/posts/test_nikola/</loc>
+  <lastmod>2017-12-27T07:26:00Z</lastmod>
+ </url>
+</urlset>
