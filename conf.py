@@ -21,10 +21,10 @@ BLOG_AUTHOR = "CaiQX"  # (translatable)
 BLOG_TITLE = "CaiQX Blog"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://QXCai.github.io/"
+SITE_URL = "https://qxcai.github.io/Nikola_Blog/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http://QXCai.github.io/"
+# BASE_URL = "https://qxcai.github.io/Nikola_Blog/"
 BLOG_EMAIL = "afratyqk@126.com"
 BLOG_DESCRIPTION = "For Study"  # (translatable)
 
