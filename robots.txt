@@ -1,4 +1,4 @@
-Sitemap: http://QXCai.github.io/sitemapindex.xml
+Sitemap: https://qxcai.github.io/Nikola_Blog/sitemapindex.xml
 
 User-Agent: *
-Host: QXCai.github.io
+Host: qxcai.github.io
