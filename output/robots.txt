@@ -1,0 +1,4 @@
+Sitemap: http://QXCai.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: QXCai.github.io
