@@ -6,35 +6,39 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://QXCai.github.io/</loc>
+  <loc>https://qxcai.github.io/Nikola_Blog/</loc>
+  <lastmod>2017-12-27T08:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://qxcai.github.io/Nikola_Blog/2017/</loc>
   <lastmod>2017-12-27T07:26:00Z</lastmod>
  </url>
  <url>
-  <loc>http://QXCai.github.io/2017/</loc>
+  <loc>https://qxcai.github.io/Nikola_Blog/archive.html</loc>
+  <lastmod>2017-12-27T08:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://qxcai.github.io/Nikola_Blog/categories/</loc>
   <lastmod>2017-12-27T07:26:00Z</lastmod>
  </url>
  <url>
-  <loc>http://QXCai.github.io/archive.html</loc>
+  <loc>https://qxcai.github.io/Nikola_Blog/galleries/</loc>
   <lastmod>2017-12-27T07:26:00Z</lastmod>
  </url>
  <url>
-  <loc>http://QXCai.github.io/categories/</loc>
+  <loc>https://qxcai.github.io/Nikola_Blog/listings/</loc>
   <lastmod>2017-12-27T07:26:00Z</lastmod>
  </url>
  <url>
-  <loc>http://QXCai.github.io/galleries/</loc>
+  <loc>https://qxcai.github.io/Nikola_Blog/pages/test_nikola/</loc>
   <lastmod>2017-12-27T07:26:00Z</lastmod>
  </url>
  <url>
-  <loc>http://QXCai.github.io/listings/</loc>
-  <lastmod>2017-12-27T07:26:00Z</lastmod>
+  <loc>https://qxcai.github.io/Nikola_Blog/posts/basemap-choropleth-map/</loc>
+  <lastmod>2017-12-27T08:15:00Z</lastmod>
  </url>
  <url>
-  <loc>http://QXCai.github.io/pages/test_nikola/</loc>
-  <lastmod>2017-12-27T07:26:00Z</lastmod>
- </url>
- <url>
-  <loc>http://QXCai.github.io/posts/test_nikola/</loc>
+  <loc>https://qxcai.github.io/Nikola_Blog/posts/test_nikola/</loc>
   <lastmod>2017-12-27T07:26:00Z</lastmod>
  </url>
 </urlset>
